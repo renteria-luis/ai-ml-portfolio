@@ -18,7 +18,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
 |--------------------------|-----------------------------------------------------------------------------|
 | `01-python-projects/`    | Small projects to practice Python basics for data science                   |
 | `02-data-manipulation/`  | Projects on data wrangling and preprocessing with Pandas and NumPy          |
-| `03-data_visualization/` | Data visualization projects using Matplotlib and Seaborn                    |
+| `03-data-visualization/` | Data visualization projects using Matplotlib and Seaborn                    |
 | `04-machine_learning/`   | Machine Learning projects with Scikit-learn (classification, regression, etc.) |
 | `05-deep-learning/`      | Deep learning projects with PyTorch and TensorFlow                          |
 | `06-pyspark-projects/`   | Projects focused on big data processing and analysis with PySpark            |
