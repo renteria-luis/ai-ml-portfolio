@@ -29,10 +29,10 @@ It showcases my **learning journey and practical skills** through hands-on proje
 ### 🧑‍💻 Projects Included  
 - **01 Python Basics** → Fundamentals of Python for data science.  
 - **02 NumPy & Pandas** → Array operations, data wrangling, joins, groupby, pivot. 
-- **04 Matplotlib & Seaborn** → Data visualization and storytelling.  
-- **05 Scikit-learn** → Classification, regression, pipelines, metrics.  
-- **06 Deep Learning (PyTorch / TensorFlow)** → Neural networks, training, evaluation.  
-- **07 Spark** → Distributed data analysis with PySpark.  
+- **03 Matplotlib & Seaborn** → Data visualization and storytelling.  
+- **04 Scikit-learn** → Classification, regression, pipelines, metrics.  
+- **05 Deep Learning (PyTorch / TensorFlow)** → Neural networks, training, evaluation.  
+- **06 Spark** → Distributed data analysis with PySpark.  
 
 ---
 
