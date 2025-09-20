@@ -1,9 +1,6 @@
-# ai-ml-portfolio  
-Portfolio of Data Science, Machine Learning, and Deep Learning projects using Python, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, and Spark.
+# 🤖 AI & ML Portfolio  
 
-## 🤖 AI & ML Portfolio  
-
-### 👋 About
+## 👋 About
 Hello, I'm **Luis Renteria**, an electronic engineer transitioning into the world of **Data Science, Machine Learning, and Artificial Intelligence**.
 
 This repository is my **portfolio of projects in Data Science, Machine Learning, and Deep Learning**, built with **Python** and libraries like **NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, TensorFlow, and Spark**.  
@@ -12,7 +9,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
 
 ---
 
-### 📂 Repository Structure  
+## 📂 Repository Structure  
  
 | Folder                   | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -26,7 +23,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
 
 ---
 
-### 🧑‍💻 Projects Included  
+## 🧑‍💻 Projects Included  
 - **01 Python Basics** → Fundamentals of Python for data science.  
 - **02 NumPy & Pandas** → Array operations, data wrangling, joins, groupby, pivot. 
 - **03 Matplotlib & Seaborn** → Data visualization and storytelling.  
@@ -36,14 +33,14 @@ It showcases my **learning journey and practical skills** through hands-on proje
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 - **Languages:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow  
 - **Tools:** Jupyter Notebook, Git/GitHub, VS Code  
 - **Big Data:** PySpark  
 
 ---
-### 🧩 Technologies Overview  
+## 🧩 Technologies Overview  
 
 - 🐍 [Python](https://www.python.org/) — Main programming language  
 - 📊 [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) — Data manipulation and analysis  
@@ -58,7 +55,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
 
 ---
 
-### 🚀 How to Run the Code  
+## 🚀 How to Run the Code  
 1. Clone this repo:  
    ```bash
    git clone https://github.com/tuusuario/ai-ml-portfolio.git
@@ -77,7 +74,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
    
 ---
 
-### 📈 Results & Learning  
+## 📈 Results & Learning  
 - Strengthened foundations in **data analysis** and **visualization**.  
 - Built ML models for **classification, regression, and clustering**. 
 - Applied **deep learning frameworks** to real datasets.  
@@ -86,7 +83,7 @@ It showcases my **learning journey and practical skills** through hands-on proje
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 - 💼 **LinkedIn:** [Luis Renteria Lezano](https://www.linkedin.com/in/luis-alberto-renteria-lezano-452696217/)
 - 💻 **Github:** [@renteria-luis](https://github.com/renteria-luis)
